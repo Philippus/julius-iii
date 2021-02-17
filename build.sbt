@@ -1,4 +1,4 @@
-val scala3Version = "3.0.0-M3"
+val scala3Version = "3.0.0-RC1"
 
 name := "julius-iii"
 organization := "nl.gn0s1s"
@@ -9,4 +9,4 @@ licenses += ("MIT", url("http://opensource.org/licenses/MIT"))
 
 scalaVersion := scala3Version
 
-libraryDependencies += "org.scalacheck" %% "scalacheck" % "1.15.2" % Test
+libraryDependencies += "org.scalacheck" %% "scalacheck" % "1.15.3" % Test
