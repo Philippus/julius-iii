@@ -1,4 +1,6 @@
-# Julius III - Roman Numerals in Scala 3
+# Julius III - Roman Numerals in Scala 3 (archived)
+
+This project is archived, scala 3 version is available under https://github.com/philippus/julius.
 
 This project is the same as [Julius](https://github.com/Philippus/julius), but it has been converted to Scala 3.
 
